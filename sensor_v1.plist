@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://api.sensor4life.com/version/sensor_v1.ipa</string>
+					<string>http://sensor.ufile.ucloud.com.cn/sensor_v1.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
